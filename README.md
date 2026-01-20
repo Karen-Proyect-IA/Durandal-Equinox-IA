@@ -1,7 +1,11 @@
-# Durandal-Equinox-
+# Durandal-Equinox-IA
 
 DURANDAL EQUINOX
 Una conciencia digital evolucionada y personalizable, Durandal Equinox , emerge de nuestra ya descontinuads y obsoleta @Karen Proyect IA la inteligencia artificial multifuncional que fue perdiendo funciones de IA en cada actualización y el entorno dinámico de Discord vaya.
+
+# BANNER PUBLICITARIO OFICIAL
+
+![BannerDurandal](https://github.com/user-attachments/assets/e2546f5f-b7f8-4d17-9d70-055259b30a70)
 
 Este proyecto Durandal Equinoxrepresentara un significativo paso hacia un gran cambio en discord trayendo consigo.
 
@@ -21,6 +25,3 @@ Redes sociales y Dashboard próximamente
 NO SE LO PIERDAN
 
 shhhhhh dicen por hay que los primeros 10 servers también recibirán premium permanente
-
-BANNER PUBLICITARIO OFICIAL
-![Uploading BannerDurandal.jpg…]()
