@@ -7,6 +7,11 @@
 
 <a href="https://discord.gg/Ax2fZXD7uG"><img src="https://discord.com/api/guilds/920769901680009267/widget.png?style=banner2"></a>
 
+![Auto Assign](https://github.com/Karen-Proyect-IA/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+
+![Proof HTML](https://github.com/Karen-Proyect-IA/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+
+
 ![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
 
 
