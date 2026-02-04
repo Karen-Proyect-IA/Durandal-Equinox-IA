@@ -1,4 +1,7 @@
-# Durandal-Equinox-IA# Durandal Equinox IA 🤖
+# Durandal-Equinox-IA#3929 🤖
+"Modelo De inteligencia Artificial En Constante"
+
+<a href="https://www.karendash.site/home" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15496" alt="thedotmack%2Fclaude-mem | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 ![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
 
