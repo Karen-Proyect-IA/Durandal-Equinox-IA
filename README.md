@@ -87,6 +87,8 @@ Este bot funciona con IA de Aprendizaje, destacando en que no USAMOS NI UNA API,
 </details>
 
 
+---
+
 ![Separador-de-dudas-fin-de-temas](https://github.com/user-attachments/assets/4b3a3525-983f-43e5-95d9-bbe7c27140db)
 
 ---
